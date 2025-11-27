@@ -8,4 +8,4 @@ class Config:
     TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
     
     # Model Configuration
-    MODEL_NAME = "gemini-2.5-pro-preview-03-25"
+    MODEL_NAME = "gemini-2.5-flash"
