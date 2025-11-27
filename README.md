@@ -1,8 +1,8 @@
-🎓 EduBot: Adaptive AI Tutoring Team
+🎓 **EduBot: Adaptive AI Tutoring Team**
 
 EduBot is a Telegram-based multi-agent tutoring system powered by Google Gemini and LangGraph. It simulates a team of three distinct AI agents working together to teach you any topic, test your knowledge, and adapt the difficulty based on your performance.
 
-🚀 Key Features
+🚀 *Key Features*
 
 Multi-Agent Architecture:
 
@@ -18,7 +18,7 @@ State Management: Uses LangGraph to maintain lesson context and score history ac
 
 Telegram Integration: Interactive buttons for quizzes and clean Markdown responses.
 
-🛠️ Tech Stack
+🛠️ *Tech Stack*
 
 Language: Python 3.10+
 
@@ -30,7 +30,7 @@ Frontend: Aiogram 3.x (Telegram Bot API)
 
 Validation: Pylance/MyPy compliant strict typing.
 
-📂 Project Structure
+📂 **Project Structure**
 
 EduBot/
 ├── .env                  # API Keys (Create this file)
@@ -46,7 +46,7 @@ EduBot/
     └── bot.py            # Telegram message handlers & UI
 
 
-⚡ Quick Start Guide
+⚡ **Quick Start Guide**
 
 1. Prerequisites
 
@@ -152,6 +152,6 @@ If you see red squiggles despite the code running fine, ensure your VS Code is u
 
 Press Ctrl+Shift+P -> Python: Select Interpreter -> Select the one marked ('.venv': venv).
 
-📜 License
+📜 *License*
 
 This project is open-source and available for educational purposes.
