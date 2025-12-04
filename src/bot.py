@@ -161,4 +161,7 @@ async def process_quiz_answer(callback: types.CallbackQuery):
     await callback.answer()
 
 async def main():
+    print("Bot is polling...")
+    # This forces Telegram to forget any previous connections/webhooks
+    await bot.delete_webhook(drop_pending_updates=True) 
     await dp.start_polling(bot)
