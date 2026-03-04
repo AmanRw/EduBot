@@ -1,4 +1,4 @@
-# EduBot: Adaptive AI Tutoring Team
+# EduBot: Adaptive AI Tutoring Bot
 
 **EduBot** is a Telegram-based, multi-agent tutoring system powered by **Google Gemini** and **LangGraph**. It simulates a team of three distinct AI agents working together to teach you any topic, test your knowledge, and adapt the difficulty based on your performance.
 
@@ -49,7 +49,7 @@ EduBot/
 
 1.  **Clone the repository:**
     ``` bash
-    git clone https://github.com/yourusername/edubot.git
+    git clone https://github.com/AmanRw/EduBot.git
     cd EduBot
     
     ```
